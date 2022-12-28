@@ -23,3 +23,5 @@ Hints:
 § Value X is between 50 and 300, if it's >= 50 && <= 300 �
 GOOD LUCK �
 */
+const tipGiven = 100
+const tip = (15 / 100) * tipGiven
